@@ -1,0 +1,1 @@
+Given an image which contains fill in blanks with options and Automatic_Fill_In_The_Blanks will fill the options automatically. 
